@@ -3,4 +3,4 @@ class MyFirstWebComponent extends HTMLElement {
       this.innerHTML = `<h1>Hi Pradeep Kumar Saraswathi</h1>`;
     }
   }
-customElements.define('my-web-component', MyFirstWebComponent);
+customElements.define('my-first-web-component', MyFirstWebComponent);
